@@ -40,6 +40,6 @@ independently with no effect on main branch
 ## Reverting changes
 - `git revert <commit-hash>` to revert back changes introduced by particular commit
 > you get commit hash by running __$git log__
-- git restore <filename>` to remove changes to a file __I DONT UNDERSTOOD THIS PROPERLY RIGHT NOW AND DONT FEEL NEED__
+- `git restore <filename>` to remove changes to a file __I DONT UNDERSTOOD THIS PROPERLY RIGHT NOW AND DONT FEEL NEED__
 
 
